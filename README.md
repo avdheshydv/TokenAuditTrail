@@ -20,5 +20,5 @@ To provide organizations and regulators with a robust, verifiable, and real-time
 
 ## 🔍 Contract Details
 0x963333B4c290D82fe56386b08D600A7c6c14076E
-![Uploading Screenshot 2025-06-20 122154.png…]()
+![Screenshot 2025-06-20 122154](https://github.com/user-attachments/assets/b7de123e-8eda-4f90-a02c-65d0d7f2ddf2)
 
